@@ -38,3 +38,23 @@ In the same way, Starfish provides a common abstraction to enable decentralised 
 There is no practical limit to the types of operations that can be created, and potentially recombined in interesting ways to create novel data solutions. Orchestration of such operations with Starfish is a perfect way to facilitate rapid innovation in data and AI solutions, especially where these solutions must orchestrate data and services across multiple parties in a decentralised or federated model.
 
 ---
+
+## Specification
+
+### Assets
+Assets are represented in Starfish as an abstraction enabling users to work with such Assets wherever they may be located in the Data Ecosystem.
+
+### Asset Creation
+Starfish must provide the ability to create data assets, where the creator of the asset may specify both metadata and data content.
+
+Starfish should provide automatic creation of default metadata, for developer convenience, subject to the expectation that the user may override such defaults.
+
+### Asset Registration
+Starfish must provide the ability to create data assets, where the creator of the asset may specify both metadata and data content.
+
+Starfish should provide automatic creation of default metadata, for developer convenience, subject to the expectation that the user may override such defaults.
+
+---
+
+
+
