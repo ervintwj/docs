@@ -1,6 +1,6 @@
----
-title: DEP 5: Agent and Asset Identity
-description: Decentralised Identifiers for Assets and Agents
+
+# DEP 5: Agent and Asset Identity
+Decentralised Identifiers for Assets and Agents
 
 ## Table Of Content
    * [Table of Contents](#table-of-contents)
